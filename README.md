@@ -19,5 +19,8 @@ A collection of various **unpacked / extracted / leaked GunZ clients** (mostly K
 |11  | Netmarble GunZ 5.15             | Netmarble (KR)           | [→ View](https://github.com/Duzopy/NetmarbleGunz515-Unpack-)         | Later / high build number      |
 |12  | GunZ International (Updates)    | MAIET / International    | [→ View](https://github.com/Duzopy/GunzInternationalUpdate-2005-)    | Patch/update files ~2005       |
 |13  | GunZ International (Releases)   | MAIET / International    | [→ View](https://github.com/Duzopy/GunzInternational-2005-2006)      | Full releases 2005–2006        |
-
+| 14  | Gunz International 2005-06-20   | MAIET/IJJI (INT)        | [→ View](https://github.com/Duzopy/GunzInternational-2005-2006/tree/main/GunzInternational_20050620) | Early international build      |
+| 15  | Gunz International 2005-08-18   | MAIET/IJJI (INT)        | [→ View](https://github.com/Duzopy/GunzInternational-2005-2006/tree/main/GunzInternational_20050818) | Mid-2005 patch / bug fixes     |
+|16  | Gunz International 2006-01-25   | MAIET/IJJI (INT)        | [→ View](https://github.com/Duzopy/GunzInternational-2005-2006/tree/main/GunzInternational_20060125) | 2006 early update              |
+|17  | Gunz International 2006-07-26   | MAIET/IJJI (INT)        | [→ View](https://github.com/Duzopy/GunzInternational-2005-2006/tree/main/GunzInternational_20060726) | Later 2006 / high build number |
 

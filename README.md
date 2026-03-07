@@ -34,3 +34,4 @@ A collection of various **unpacked / extracted / leaked GunZ clients** (mostly K
 |26  | Artic GunZ 2014                       | ArticGunZ                           | [→ View](https://github.com/Duzopy/ArticGunZ-2014-Unpack)            |
 |27  | Artic GunZ 2016                       | ArticGunZ                           | [→ View](https://github.com/Duzopy/ArticGunZ-2016-Unpack)            |
 |28  | UniverseGamers Gunz EuroGunZ          | UniverseGamers / EuroGunZ)          | [→ View](https://github.com/Duzopy/UniverseGamersGunz-EuroGunZ-Unpack) |
+|29  | Phoenix July 2008 Client & Server     | Phoenix                             | [→ View](https://github.com/Duzopy/Phoenix---July-2008-Client-Server-Unpack) |

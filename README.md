@@ -33,4 +33,4 @@ A collection of various **unpacked / extracted / leaked GunZ clients** (mostly K
 |25  | Gunz Competitivo                      | GunZ Competitivo                    | [→ View](https://github.com/Duzopy/Gunz-Competitivo-Unpack)          |
 |26  | Artic GunZ 2014                       | ArticGunZ                           | [→ View](https://github.com/Duzopy/ArticGunZ-2014-Unpack)            |
 |27  | Artic GunZ 2016                       | ArticGunZ                           | [→ View](https://github.com/Duzopy/ArticGunZ-2016-Unpack)            |
-|28  | UniverseGamers Gunz EuroGunZ          | UniverseGamers / EuroGunZ (European/private server) | [→ View](https://github.com/Duzopy/UniverseGamersGunz-EuroGunZ-Unpack) |
+|28  | UniverseGamers Gunz EuroGunZ          | UniverseGamers / EuroGunZ)          | [→ View](https://github.com/Duzopy/UniverseGamersGunz-EuroGunZ-Unpack) |

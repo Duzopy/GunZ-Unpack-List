@@ -25,7 +25,7 @@ A collection of various **unpacked / extracted / leaked GunZ clients** (mostly K
 |17  | InfinityGunZ                                | InfinityGunZ private server         | [→ View](https://github.com/Duzopy/InfinityGunZ-Unpacked-)                                       |
 |18  | LegacyGamers GunZ                           | LegacyGamers                        | [→ View](https://github.com/Duzopy/LegacyGamers-GunZ-Unpack)                                     |
 |19  | Masangsoft – 3rd Beta Playtest              | Masangsoft (KR recent)              | [→ View](https://github.com/Duzopy/Masangsoft-3rd-Playtest)                                      |
-|20  | Netmarble GunZ 1.15                         | Netmarble (KR)                      | [→ View](https://github.com/Duzopy/NetmarbleGunz115-Unpack-)                                     |
+|20  | Netmarble GunZ 1.15                         | Netmarble (KR)                      | [→ View](https://github.com/Duzopy/NetmarbleGunz115-Unpack)                                     |
 |21  | Netmarble GunZ 1.76                         | Netmarble (KR)                      | [→ View](https://github.com/Duzopy/NetmarbleGunz176-Unpack)                                      |
 |22  | Netmarble GunZ 1.93                         | Netmarble (KR)                      | [→ View](https://github.com/Duzopy/NetmarbleGunz193-Unpack)                                      |
 |23  | Netmarble GunZ 2.36                         | Netmarble (KR)                      | [→ View](https://github.com/Duzopy/NetmarbleGunz236-Unpack)                                      |

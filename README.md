@@ -56,6 +56,9 @@ If you have access to any GunZ: The Duel client version, variant, beta build, pa
 |42 | MortalityGunzv1                              | [→ View](https://github.com/Duzopy/MortalityGunzv1-Unpack)                                       | 2012-01-16                |
 |43 | NeonGunZ                                     | [→ View](https://github.com/Duzopy/NeonGunZ-Unpack)                                              | 2014-12-19                |
 |44 | InfectiveGunZ                                | [→ View](https://github.com/Duzopy/InfectiveGunZ-Unpack)                                         | 2012-09-07                |
+|45 | Prolib1.5(jetman)                            | [→ View](https://github.com/maietent/prolib-1.5)                                                 | 2025-11-09                |
+|46 | RefinedGunZ                                  | [→ View](https://github.com/Asunaya/RefinedGunz)                                                 | 2018-07-14                |
+|47 | OpenGunZ                                     | [→ View](https://github.com/open-gunz/ogz-source)                                                | 2022-05-28                |
 
 
 

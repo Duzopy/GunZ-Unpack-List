@@ -2,6 +2,12 @@
 
 A collection of various **unpacked / extracted / leaked GunZ clients** (mostly Korean & international versions) archived from different publishers and eras.
 
+> **Contact**  
+> • **Discord (main dev contact)**: Duzopy
+
+If you have access to any GunZ: The Duel client version, variant, beta build, patch, regional release, or private-server original that is not yet included in this archive, please reach out. Your contribution would be greatly appreciated and would help preserve more pieces of GunZ history.
+
+
 ## Quick Overview
 
 | #  | Name / Version                              | Link                                                                                             | Date / Version info       |
@@ -24,7 +30,7 @@ A collection of various **unpacked / extracted / leaked GunZ clients** (mostly K
 |16  | HeroGamers GunZ (2016)                      | [→ View](https://github.com/Duzopy/HeroGamersGunZ-Unpack)                                        | 2016                      |
 |17  | InfinityGunZ                                | [→ View](https://github.com/Duzopy/InfinityGunZ-Unpacked-)                                       | 2026                      |
 |18  | LegacyGamers GunZ                           | [→ View](https://github.com/Duzopy/LegacyGamers-GunZ-Unpack)                                     | 2007-09-13                |
-|19  | Masangsoft – 3rd Beta Playtest              | [→ View](https://github.com/Duzopy/Masangsoft-3rd-Playtest)                                      | ~2020s beta               |
+|19  | Masangsoft – 3rd Beta Playtest              | [→ View](https://github.com/Duzopy/Masangsoft-3rd-Playtest)                                      | 2026-02-09                |
 |20  | Netmarble GunZ 1.15                         | [→ View](https://github.com/Duzopy/NetmarbleGunz115-Unpack)                                      | 2004-02-09                |
 |21  | Netmarble GunZ 1.76                         | [→ View](https://github.com/Duzopy/NetmarbleGunz176-Unpack)                                      | 2004-05-21                |
 |22  | Netmarble GunZ 1.93                         | [→ View](https://github.com/Duzopy/NetmarbleGunz193-Unpack)                                      | 2004-07-19                |

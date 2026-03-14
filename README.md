@@ -52,5 +52,14 @@ If you have access to any GunZ: The Duel client version, variant, beta build, pa
 |38 | EliteGunZ                                    | [→ View](https://github.com/Duzopy/EliteGunZ-Unpack)                                             | 2013-07-10                |
 |39 | MocroGunZ                                    | [→ View](https://github.com/Duzopy/MocroGunZ-Unpack)                                             | 2014-12-30                |
 |40 | GettingGunZ V1                               | [→ View](https://github.com/Duzopy/GettingGunZ-V1-Unpack)                                        | 2020-12-22                |
+|41 | DutyGunZ                                     | [→ View](https://github.com/Duzopy/DutyGunZ-Unpack)                                              | 2019-10-15                |
+|42 | MortalityGunzv1                              | [→ View](https://github.com/Duzopy/MortalityGunzv1-Unpack)                                       | 2012-01-16                |
+|43 | NeonGunZ                                     | [→ View](https://github.com/Duzopy/NeonGunZ-Unpack)                                              | 2014-12-19                |
+|44 | InfectiveGunZ                                | [→ View](https://github.com/Duzopy/InfectiveGunZ-Unpack)                                         | 2012-09-07                |
+
+
+
+
+
 
 

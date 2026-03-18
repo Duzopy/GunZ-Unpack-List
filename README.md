@@ -68,6 +68,11 @@ If you have access to any GunZ: The Duel client version, variant, beta build, pa
 |45 | Prolib1.5(jetman)                            | [→ View](https://github.com/maietent/prolib-1.5)                                                 | 2025-11-09                |
 |46 | RefinedGunZ                                  | [→ View](https://github.com/Asunaya/RefinedGunz)                                                 | 2018-07-14                |
 |47 | OpenGunZ                                     | [→ View](https://github.com/open-gunz/ogz-source)                                                | 2022-05-28                |
+|48 | EvilGunZ                                     | [→ View](https://github.com/Duzopy/EvilGunZ-Unpack)                                              | 2019-03-14                |
+|49 | HighGunZ                                     | [→ View](https://github.com/Duzopy/HighGunZ-Unpack)                                              | 2013-12-23                |
+|50 | TheDuelBR(LevelUpGames 06)                   | [→ View](https://github.com/Duzopy/TheDuel-LevelUpGames-2006-Unpack)                             | 2006-10-03                |
+|51 | GunzLeague                                   | [→ View](https://github.com/Duzopy/GunzLeague-Unpack)                                            | 2014-08-26                |
+|52 | DictyGunz                                    | [→ View](https://github.com/Duzopy/DictyGunz-Unpack)                                             | 2013-08-28                |
 
 
 

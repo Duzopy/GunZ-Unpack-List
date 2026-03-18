@@ -7,6 +7,15 @@ A collection of various **unpacked / extracted / leaked GunZ clients** (mostly K
 
 If you have access to any GunZ: The Duel client version, variant, beta build, patch, regional release, or private-server original that is not yet included in this archive, please reach out. Your contribution would be greatly appreciated and would help preserve more pieces of GunZ history.
 
+## Looking for
+- **DualityGunZ (BR)**
+- **QualityGunZ**
+- **HeatGunZ (BR)**
+- **WarGunZ**
+- **ActGunZ**
+- **TrueGunZ**
+- **LegoGunZ**
+- **LevelupGames (2007 or higher) TheDuelBR Original (theduel_20070315.exe, TheDuel_20081231.exe)**
 
 ## Quick Overview
 

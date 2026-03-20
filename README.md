@@ -73,6 +73,7 @@ If you have access to any GunZ: The Duel client version, variant, beta build, pa
 |50 | TheDuelBR(LevelUpGames 06)                   | [→ View](https://github.com/Duzopy/TheDuel-LevelUpGames-2006-Unpack)                             | 2006-10-03                |
 |51 | GunzLeague                                   | [→ View](https://github.com/Duzopy/GunzLeague-Unpack)                                            | 2014-08-26                |
 |52 | DictyGunz                                    | [→ View](https://github.com/Duzopy/DictyGunz-Unpack)                                             | 2013-08-28                |
+|53 | StarGunZV8                                   | [→ View](https://github.com/Duzopy/StarGunZV8-Unpack)                                            | 2015-08-23                |
 
 
 

@@ -74,6 +74,7 @@ If you have access to any GunZ: The Duel client version, variant, beta build, pa
 |51 | GunzLeague                                   | [→ View](https://github.com/Duzopy/GunzLeague-Unpack)                                            | 2014-08-26                |
 |52 | DictyGunz                                    | [→ View](https://github.com/Duzopy/DictyGunz-Unpack)                                             | 2013-08-28                |
 |53 | StarGunZV8                                   | [→ View](https://github.com/Duzopy/StarGunZV8-Unpack)                                            | 2015-08-23                |
+|54 | KnightGunZv3                                 | [→ View](https://github.com/Duzopy/KnightGunZV3-Unpack)                                          | 2016-02-29                |
 
 
 

@@ -79,6 +79,7 @@ If you have access to any GunZ: The Duel client version, variant, beta build, pa
 |56 | StasticGunz                                  | [→ View](https://github.com/GjaGtaGva/STASTIC-Gunz-Client-Server)                                | 2024                      |
 |57 | AeroGunz                                     | [→ View](https://github.com/Duzopy/AeroGunz-Unpack)                                              | 2016-10-02                |
 |58 | GlobalGunz                                   | [→ View](https://github.com/Duzopy/GlobalGunZ-Unpack)                                            | 2017-10-05                |
+|59 | UniversalGunZ                                | [→ View](https://github.com/Duzopy/UniversalGunZ-Unpack)                                         | 2017-10-20                |
 
 
 

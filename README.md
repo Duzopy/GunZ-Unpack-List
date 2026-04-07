@@ -8,7 +8,6 @@ A collection of various **unpacked / extracted / leaked GunZ clients** (mostly K
 If you have access to any GunZ: The Duel client version, variant, beta build, patch, regional release, or private-server original that is not yet included in this archive, please reach out. Your contribution would be greatly appreciated and would help preserve more pieces of GunZ history.
 
 ## Looking for
-- **DualityGunZ (BR)**
 - **QualityGunZ**
 - **HeatGunZ (BR)**
 - **WarGunZ**
@@ -80,6 +79,7 @@ If you have access to any GunZ: The Duel client version, variant, beta build, pa
 |57 | AeroGunz                                     | [→ View](https://github.com/Duzopy/AeroGunz-Unpack)                                              | 2016-10-02                |
 |58 | GlobalGunz                                   | [→ View](https://github.com/Duzopy/GlobalGunZ-Unpack)                                            | 2017-10-05                |
 |59 | UniversalGunZ                                | [→ View](https://github.com/Duzopy/UniversalGunZ-Unpack)                                         | 2017-10-20                |
+|60 | DualityGunzV5                                | [→ View](https://github.com/Duzopy/DualityGunZV5-Unpack)                                         | 2014                      |
 
 
 

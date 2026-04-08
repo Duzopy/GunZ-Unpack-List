@@ -10,7 +10,6 @@ If you have access to any GunZ: The Duel client version, variant, beta build, pa
 ## Looking for
 - **QualityGunZ**
 - **HeatGunZ (BR)**
-- **WarGunZ**
 - **ActGunZ**
 - **TrueGunZ**
 - **LegoGunZ**
@@ -80,6 +79,7 @@ If you have access to any GunZ: The Duel client version, variant, beta build, pa
 |58 | GlobalGunz                                   | [→ View](https://github.com/Duzopy/GlobalGunZ-Unpack)                                            | 2017-10-05                |
 |59 | UniversalGunZ                                | [→ View](https://github.com/Duzopy/UniversalGunZ-Unpack)                                         | 2017-10-20                |
 |60 | DualityGunzV5                                | [→ View](https://github.com/Duzopy/DualityGunZV5-Unpack)                                         | 2014                      |
+|61 | WarGunZ                                      | [→ View](https://github.com/Duzopy/WarGunz-Unpack)                                               | 2015-03-02                |
 
 
 

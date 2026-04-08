@@ -80,6 +80,8 @@ If you have access to any GunZ: The Duel client version, variant, beta build, pa
 |59 | UniversalGunZ                                | [→ View](https://github.com/Duzopy/UniversalGunZ-Unpack)                                         | 2017-10-20                |
 |60 | DualityGunzV5                                | [→ View](https://github.com/Duzopy/DualityGunZV5-Unpack)                                         | 2014                      |
 |61 | WarGunZ                                      | [→ View](https://github.com/Duzopy/WarGunz-Unpack)                                               | 2015-03-02                |
+|62 | System GamerZv5                              | [→ View](https://github.com/Duzopy/System-GamerZv5-Unpack)                                       | 2015-10-03                |
+
 
 
 

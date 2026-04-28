@@ -85,6 +85,8 @@ If you have access to any GunZ: The Duel client version, variant, beta build, pa
 |64 | DemonGunZ(2017)                              | [→ View](https://github.com/Duzopy/DemonGunZ-2017-Unpack)                                        | 2017                      |
 |65 | IsraelGunZ                                   | [→ View](https://github.com/Duzopy/IsraelGunZ-Unpack)                                            | 2014-03-06                |
 |66 | Masangsoft (4th Playtest)                    | [→ View](https://github.com/Duzopy/Masangsoft-4th-Playtest)                                      | 2026-04-21                |
+|67 | IonicGunZ                                    | [→ View](https://github.com/Duzopy/IonicGunz-Unpack)                                             | 2016-09-22                |
+|68 | KnightGunZv1.2                               | [→ View](https://github.com/Duzopy/KnightGunZV1.2-Unpack)                                        | 2015-02-04                |
 
 
 
